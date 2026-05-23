@@ -35,23 +35,23 @@ class FoglalasiRendszer:
     def _jaratok_betoltese(self):
         self._legitarsasag.jarat_hozzaadasa(
             BelfoldiJarat("B101", "Budapest", 18000, [
-                Indulas(date(2026, 6, 12), 10),
-                Indulas(date(2026, 7, 5), 10),
-                Indulas(date(2026, 8, 15), 10)
+                Indulas(date(2026, 6, 12), 3),
+                Indulas(date(2026, 7, 5), 8),
+                Indulas(date(2026, 8, 15), 1)
             ])
         )
         self._legitarsasag.jarat_hozzaadasa(
             BelfoldiJarat("B202", "Debrecen", 15000, [
-                Indulas(date(2026, 6, 15), 10),
-                Indulas(date(2026, 8, 10), 10),
-                Indulas(date(2026, 9, 12), 10)
+                Indulas(date(2026, 6, 15), 12),
+                Indulas(date(2026, 8, 10), 5),
+                Indulas(date(2026, 9, 12), 9)
             ])
         )
         self._legitarsasag.jarat_hozzaadasa(
             NemzetkoziJarat("N303", "London", 65000, [
-                Indulas(date(2026, 7, 1), 10),
-                Indulas(date(2026, 9, 20), 10),
-                Indulas(date(2026, 12, 5), 10)
+                Indulas(date(2026, 7, 1), 27),
+                Indulas(date(2026, 9, 20), 14),
+                Indulas(date(2026, 12, 5), 2)
             ])
         )
         # self._legitarsasag.jarat_hozzaadasa(

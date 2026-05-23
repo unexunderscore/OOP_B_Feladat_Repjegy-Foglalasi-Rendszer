@@ -41,18 +41,4 @@
         "jaratszam": "N303",
         "datum": "2026-09-20"
     },
-    {
-        "azonosito": 7,
-        "vezeteknev": "Kovács",
-        "keresztnev": "Ágnes",
-        "jaratszam": "N303",
-        "datum": "2026-07-01"
-    },
-    {
-        "azonosito": 8,
-        "vezeteknev": "Liszt",
-        "keresztnev": "Ferenc",
-        "jaratszam": "N303",
-        "datum": "2026-07-01"
-    }
 ]

@@ -1,0 +1,58 @@
+[
+    {
+        "azonosito": 1,
+        "vezeteknev": "Kiss",
+        "keresztnev": "Anna",
+        "jaratszam": "B101",
+        "datum": "2026-06-12"
+    },
+    {
+        "azonosito": 2,
+        "vezeteknev": "Nagy",
+        "keresztnev": "Béla",
+        "jaratszam": "B202",
+        "datum": "2026-06-15"
+    },
+    {
+        "azonosito": 3,
+        "vezeteknev": "Tóth",
+        "keresztnev": "Eszter",
+        "jaratszam": "N303",
+        "datum": "2026-07-01"
+    },
+    {
+        "azonosito": 4,
+        "vezeteknev": "Szabó",
+        "keresztnev": "Péter",
+        "jaratszam": "B101",
+        "datum": "2026-07-05"
+    },
+    {
+        "azonosito": 5,
+        "vezeteknev": "Varga",
+        "keresztnev": "Lilla",
+        "jaratszam": "B202",
+        "datum": "2026-08-10"
+    },
+    {
+        "azonosito": 6,
+        "vezeteknev": "Horváth",
+        "keresztnev": "Máté",
+        "jaratszam": "N303",
+        "datum": "2026-09-20"
+    },
+    {
+        "azonosito": 7,
+        "vezeteknev": "Kovács",
+        "keresztnev": "Ágnes",
+        "jaratszam": "N303",
+        "datum": "2026-07-01"
+    },
+    {
+        "azonosito": 8,
+        "vezeteknev": "Liszt",
+        "keresztnev": "Ferenc",
+        "jaratszam": "N303",
+        "datum": "2026-07-01"
+    }
+]
